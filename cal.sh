@@ -1,2 +1,1 @@
-A+B
-c-D
+echo " first commit ";
